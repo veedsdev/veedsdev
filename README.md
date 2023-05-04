@@ -13,7 +13,7 @@
 
 ![EDGAR VEGA ARAGÓN](https://user-images.githubusercontent.com/107210868/235577953-a1b449f8-97d9-4e7e-ab14-1a2cedff5870.png)
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture> 
 ### Profile 💼
 Full Stack Jr programmer with knowledge in mobile development, web development, database structures and interface design, with the commitment to continue acquiring new knowledge within the computing area.
 ### Knowledge and tools. 💡✏️

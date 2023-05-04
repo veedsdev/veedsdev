@@ -14,9 +14,8 @@
 ![EDGAR VEGA ARAGÓN](https://user-images.githubusercontent.com/107210868/235577953-a1b449f8-97d9-4e7e-ab14-1a2cedff5870.png)
 
 ### Profile 💼
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 Full Stack Jr programmer with knowledge in mobile development, web development, database structures and interface design, with the commitment to continue acquiring new knowledge within the computing area.
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture> 
 ### Knowledge and tools. 💡✏️
 |<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40">  | <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="compose" width="40">  | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt ="java" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="45" height="45"/> | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
